@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0302fe;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="square">
+    <rect class="cls-1" x="10.91" y="10.91" width="278.17" height="278.17"/>
+  </g>
+  <g id="vertical_bar" data-name="vertical bar">
+    <rect class="cls-2" x="114.25" y="64.09" width="38.94" height="171.82"/>
+  </g>
+</svg>
